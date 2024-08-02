@@ -1,0 +1,56 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfbfc;
+    color: #010101;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.Z0jnPjoaNMfswVwIvn4csgHaEo&pid=Api&P=0&h=180");
+}
+
+header {
+    text-align:center;
+    padding: 50px 0;
+    background-color: #0c0c0c;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #8c8282;
+    box-shadow:none rgba(255, 132, 132, 0.1);
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #0c0c0c;
+    color: #fff;
+}
+ol{
+list-style: none;
+}
+li{
+    margin-right: 0%;
+    margin-left:0;
+}
